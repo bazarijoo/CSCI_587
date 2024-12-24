@@ -1,1 +1,1 @@
-# CSCI_587
+# CSCI 587: Geospatial Data Management Assignments

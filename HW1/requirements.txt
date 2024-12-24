@@ -1,0 +1,8 @@
+# Additional dependencies for hw1_report.ipynb
+matplotlib==3.8.3
+numpy==1.24.3
+pandas==1.4.0
+scikit-learn==1.2.2
+seaborn==0.13.2
+jupyter==1.0.0
+notebook==6.5.4

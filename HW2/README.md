@@ -1,0 +1,1 @@
+In this assignment, I implemented IER and INE methods for K Nearest Neighbor queries from the paper: [Query Processing in Spatial Network Databases](https://www.vldb.org/conf/2003/papers/S24P02.pdf). See the notebook for the full code with road network distance calculation.
