@@ -1,0 +1,1 @@
+In this assignment, I implemented K-nearest neighbor (KNN) and range queries using linear search, grid index, and k-d tree index. 
